@@ -23,7 +23,7 @@ After running the prompt against your Home Assistant instance, Claude produces:
 
 ### 📄 Migration Plan Document (`ZHA_to_Z2M_Migration_Plan.docx`)
 - Overview of your current setup and migration strategy
-- Entity ID reuse strategy — how to preserve all automations without any changesx
+- Entity ID reuse strategy — how to preserve all automations without any changes
 - Pre-migration checklist
 - Recommended migration order (mains-powered routers first, bindings-dependent devices last)
 - Per-device procedures for Hue bulbs, Aqara devices, IKEA remotes, smart plugs, and more
