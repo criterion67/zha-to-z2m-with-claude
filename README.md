@@ -10,6 +10,21 @@ No manual data entry. No guesswork. No broken automations.
 
 ---
 
+## Screenshots
+
+| ZHA Dashboard | Z2M Overview |
+|:---:|:---:|
+| ![ZHA Dashboard](images/01-zha-dashboard.png) | ![Z2M Overview](images/02-z2m-overview.png) |
+
+| Z2M Devices | Z2M Bindings |
+|:---:|:---:|
+| ![Z2M Devices](images/03-z2m-devices.png) | ![Z2M Bindings](images/04-z2m-bindings.png) |
+
+*Z2M Permit Join active during pairing:*
+![Z2M Permit Join](images/05-z2m-permit-join.png)
+
+---
+
 ## What You Get
 
 After running the prompt against your Home Assistant instance, Claude produces:
